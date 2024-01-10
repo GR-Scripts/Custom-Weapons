@@ -4,6 +4,9 @@
 
 This is a **FREE** release!
 
+this is a updated version from https://github.com/NoobySloth/Custom-Weapons
+
+
 
 
 **Supplied Snippets**
